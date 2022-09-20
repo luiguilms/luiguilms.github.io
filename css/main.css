@@ -1,0 +1,17 @@
+*{
+    background-color: whitesmoke;
+}
+html {
+    scroll-behavior: smooth;
+    
+  }
+
+.subtitle{
+    font-weight: bold;
+    background-color: rgb(55, 238, 192);
+}
+
+.programming-languages i{
+    font-size: 7em;
+    background-color: rgb(136, 238, 212);
+}
